@@ -1,0 +1,8 @@
+1489300507426	geckodriver	INFO	Listening on 127.0.0.1:50713
+1489300508669	mozprofile::profile	INFO	Using profile path /var/folders/6v/2pg40m4147gcfgtz5pwmlcxr0000gn/T/rust_mozprofile.MabUkNefismv
+1489300508673	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1489300508700	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50722
+1489300509332	Marionette	INFO	Listening on port 50722
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+[Child 26665] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 26665] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
